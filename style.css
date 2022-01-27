@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    color: brown;
+    font-weight: bold;
+}
+
+body{
+    background-color: burlywood;
+}
+
+div.cafe{
+    position: relative;
+    left: 750px;
+   
+}
+div.contacto{
+    position: relative;
+left: 1400px;
+}
+div.color{
+    color: brown
+}
